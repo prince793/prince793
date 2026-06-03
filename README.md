@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://prince793.github.io">🌐 Portfolio</a> •
   <a href="mailto:princeedriancasem@gmail.com">✉️ Email</a> •
-  <a href="https://linkedin.com/in/casem-princeedrian-p-9408b3294">💼 LinkedIn</a>
+  <a href="www.linkedin.com/in/casem-prince-edrian-p-9408b3294">💼 LinkedIn</a>
 </p>
 
 ---
