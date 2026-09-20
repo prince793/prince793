@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd-year **BSIT student** at University of Eastern Pangasinan
+- 🎓 4th-year **BSIT student** at University of Eastern Pangasinan
 - 💻 I build full-stack web apps using **PHP, Laravel & MySQL**
 - 🔌 Part of a team building **SignSync** — an IoT sign language translator
 - 🌍 Based in **Pangasinan, Philippines**
